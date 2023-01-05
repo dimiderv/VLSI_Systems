@@ -1,5 +1,6 @@
 # VLSI_Systems
 
+## NOTE: RAM file was written by the lab team and was uploaded to make project easier to understand. It is not my code.
 
 The following projects were developed on Altera Cyclone II FPGA and System Verilog their implementation. These projects are: <br />
 * VGA protocol.
